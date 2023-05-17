@@ -1,0 +1,71 @@
+<!DOCTYPE>
+<html>
+<title>Portfolio Content</title>
+<body>
+<h1> Justine Felix V. Fundal </h1>
+
+<img src="C:\Users\calle\Downloads\IMG-7500.jpg" style="width: 200px; height: 200px;">
+
+
+
+<div>
+
+<img src= "https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png" style="width: 30px; height: 30px;"> <a href = "#"style="padding-right: 50pt; ">  My Github
+</a>  
+
+<img src= "data:image/png;base64,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" style="width: 30px; height: 30px;"> <span> <a href = "#" style="padding-right: 50pt; "> My Linkedin
+</a>  </span>
+
+
+<img src= "https://e7.pngegg.com/pngimages/818/690/png-clipart-email-computer-icons-gmail-email-miscellaneous-angle.png"style="width: 30px; height: 30px;"> <span> <a href = "#" style="padding-right: 50pt; "> My Email
+</a>  </span>
+</div>
+
+<h2> Technologies: </h2>
+
+<table style="border: double 5px black;">
+<tr>
+<th style="border: double 5px black;" >Front-End</th>
+<th style="border: double 5px black;">Python</th>
+<th style="border: double 5px black;">Javascript</th>
+<th style="border: double 5px black;">Database</th>
+<th style="border: double 5px black;">Concepts</th>
+</tr>
+<tr>
+<td style="border: solid 2px black;">Html 5</td>
+<td style="border: solid 2px black;">Django</td>
+<td style="border: solid 2px black;">Express</td>
+<td style="border: solid 2px black;">Mysql</td>
+<td style="border: solid 2px black;">Ajax</td>
+</tr>
+<tr>
+<td style="border: solid 2px black;">CSS 3</td>
+<td style="border: solid 2px black;">Flask</td>
+<td style="border: solid 2px black;">mongoose</td>
+<td style="border: solid 2px black;">MangoDB</td>
+<td style="border: solid 2px black;">OOP</td>
+</tr>
+<tr>
+<td style="border: solid 2px black;">Bootstrap</td>
+<td style="border: solid 2px black;">Unittest</td>
+<td style="border: solid 2px black;">React</td>
+<td style="border: solid 2px black;"></td>
+<td style="border: solid 2px black;">Rest</td>
+</table>
+<br>
+
+
+
+<h3> Social Snakes </h3>
+
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAeFBMVEX///8AAABhYWHc3NylpaXR0dHMzMzKysrPz89OTk5dXV1jY2Nzc3NHR0fu7u7p6enBwcFtbW2xsbFYWFjj4+N6enqdnZ0yMjKIiIgpKSn19fUgICAbGxurq6s3Nzc/Pz+Xl5e4uLiYmJiOjo6BgYEODg5DQ0MWFhZA7GEbAAAE+ElEQVR4nO2daUPjIBCGkx5Wrdbay17aeuz6///hrnJEawMzgQxk930+VkJ4HJoEGJqiAAAAAAAAAAAAAAAAAAAAAAAAAAAAskymq5txLyfGN6vpXTS/x0OZJw+zKH6D1B5OHoP97p5SO3i42oYJ9lMLEFgERTB160lMAgw3qRtP4qm54KutZBnx0hyHu+m9bd2gcS2mhreILYvIxDo2rWGmj5/GbFZUVrqFzw2PH6vDV1EbFZelauJNw8MDu4AEW9XETcPD1dHXUZsUm0NQFNTBvagtis34nzfswdAJDHMAhm5gmAMwdAPDHIChGxjmAAzdwDAHYOgGhjkAQzcwzAEYuoFhDsDQDQxzIInh83zedMWyGIzXvOX0FIafS88Nlyw/MyOGnCMSGN6oo/q+ctv73eZ0dfmojuUoyhua5AFvP33/KLX+/tl1yVYUN9QR9MdwcK5ly5KtKG1oBee0uk8ythYlW1HY0Ape+UqaNJGTjy/ZirKGVvCWWHX5cvr5iKsoamgzlLwRNBfNMw3jKkoaMiJoQnguF4mpKGjIiKDNCDz7xwuWopwhJ4I6kakupZAVRTFDTgSLtSuEBS+KUoacCNoQ1iehMxSFDO85gsWbKvvLUYSuKGPIE5zows69EuRbv4ghT9A8fO7dpahRlDBkXWSq9H/f4GNIUxQwZEbQXJR23oK0jtq+4ZgXQTt8IOSOk6LYuqG9Tfwm1qn/I6S0ZYpi24b28YPYRe0uI1r6v1Ws79NtG5oHzAO1St0g6i4X+12snYBr29AMZKmjORPCEbEFPVN/7Qa1tg3N3bssL0k1znkhnJval7VFWr/S8IY65nt1QTu/FXTM+rR/t2ANdW5VSeJliSIoccdnKA7p/4uCKCjy1FZ1VN93UYeQ9mxgBd17dkSevEdERVOOFEKioNDoiRjFJ0KnM1AFpUbAJMWpLuJds/nLFVVQbBajUqy/ETwQ21xwBOVmovyKz/QQMgQFZxOr0VxNR92Qa+MISs4IV1E8+9BpQuj/eQCWoOisvruj7tSf7r3V8ARlV2aqjvozimZbuDcNgSkovLrm6Kjv6nNvAoMVpJ5VeIW0iuJJR6WGkC0ovspdRfH753p2pn6Yp3hlC8pnKtgofn/41LPAvh8h2bMFE2SbmCh+v7Gr2Yt1zTGWPf+MCTKGVBRP5+yfCX3ULLuxTpgi6+tjnLv5eUlZUH7t6ONK479lfiVNbuKQMnw4z2jGPBbZl25gmAMwdAPDHIChGxjmAAzdwDAHYOgGhjkAQzcwzAEYuoFhDsDQDQxzAIZuYJgDMQzHUVsUmxi/BR3w5gEBnoIMdZJPbm9F+IregdP0N9n12jRxr0gSdGqDf/H1PCYhNN9votmxQ0wc/4lOZCp3eb7/YWra17STVsloZblfz0b9nBjN3t5t6wICYPdtZQ1v5f+Eh9StJxB4O5v7z5CY4PdvvPrPkZRjqGBR9HMO43XQC7ssd8ed/1wJ2LxEfNyaDGeDYB5Vww6P4VUNBrNhyMvI2kIZ5vuIFI4yzHvAGQYMuw8Muw8Muw8Muw8Muw8Muw8Muw8Muw8Muw8Mu8//Yti92cTtsUdDr9XtxsTyvd4xtdsnW7PHvA32lN3DbdPu4tRrar2iemVDOwSvDkZg6W9mAE3zSGKy8DczgDjrg4H021vsf2i+sx8AAAAAAAAAAAAAAAAAAJ3jD6z1MyBr4x/pAAAAAElFTkSuQmCC" style="width: 100px; height: 100px;">
+
+
+<h4> Contact Me </h4>
+<div>
+Name: <input type="text" placeholder="Name"> Email: <input type="email" placeholder="Email":> <br>
+Message: <textarea></textarea><br>
+<input type="submit" value="Send Message" style="border: solid 5px black;">
+</div>
+</body>
+</html>
